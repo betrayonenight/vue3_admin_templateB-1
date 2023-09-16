@@ -5,12 +5,12 @@
 </template>
 
 <script setup lang="ts">
-for(let i=0;i<100;i++)
-{
-console.log(i);
+for (let i = 0; i < 100; i++) {
+  console.log(i)
 }
+
+let str1 = "111";
+console.log(str1)
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
